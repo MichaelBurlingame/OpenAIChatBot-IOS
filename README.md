@@ -10,7 +10,7 @@
   
 <h3>What Was Used</h3>
 <ul>
-<li><a href="https://openai.com/api/">OpenAI's API For Responses</a></li>
+<li><a href="https://openai.com/api/">OpenAI's API</a> For Responses</li>
 <li><a href="https://github.com/adamrushy/OpenAISwift">adamrushy's OpenAISwift Package</a></li>
 </ul>
 
