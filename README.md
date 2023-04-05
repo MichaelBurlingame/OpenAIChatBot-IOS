@@ -1,12 +1,14 @@
 # OpenAIChatBot-IOS
 
+ <img src="https://user-images.githubusercontent.com/125146109/220946222-6643cdb4-34e8-4f6a-82a9-a27c8809ab1f.png" alt="Filled Chat" width="125">
+
 <h3>Goals Of The App</h3>
 <ul>
-<li>Create A Clean & Simple Messaging App</li>
+<li>Create A Simple Chat Interface</li>
 <li>Use OpenAI's API To Make It Responsive</li>
 </ul>
 
-  <img src="https://user-images.githubusercontent.com/125146109/220946222-6643cdb4-34e8-4f6a-82a9-a27c8809ab1f.png" alt="Filled Chat" width="125">
+ 
   
 <h3>What Was Used</h3>
 <ul>
